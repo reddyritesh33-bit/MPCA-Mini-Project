@@ -107,11 +107,11 @@ Boolean flag resets when object is removed
 
 ### Project Build
 
-| Front View | Side View |
+| Front View | Top View |
 |---|---|
 | ![Front View](screenshots/1.jpeg) | ![Side View](screenshots/2.jpeg) |
 
-| Top View | Full Setup |
+| Coding Part | Arduino Contoller |
 |---|---|
 | ![Top View](screenshots/3.jpeg) | ![Full Setup](screenshots/4.jpeg) |
 
